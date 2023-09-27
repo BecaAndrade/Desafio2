@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 70px;
+    background-color: lavenderblush;
+}
+
+li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 150px;
+    color:dimgray;
+}
+
+div {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+
+img{
+    width: 200px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 60px;
+    padding-right: 50px;
+
+}
+.roupas{
+    width:200px;
+    height: 180px; 
+    margin-right:11px; ;
+}
+h4{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+button {
+    margin-left:95px;
+    margin-top:20px;
+}
+#formain{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+footer {
+    background-color:lavenderblush;
+    height:70px;
+    margin-top: 80px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#FormFooter {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+ 
